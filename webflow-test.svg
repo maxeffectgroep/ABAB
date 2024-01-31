@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="745px" height="439px" viewBox="0 0 745 439" version="1.1">
+    <g id="svg" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <a href="#session-1-open" role="tab">
+        <ellipse id="Oval" stroke="#979797" fill="#AA3232" cx="210.5" cy="203.5" rx="134" ry="128"/>
+        </a>
+       <a href="#session-1-closed" role="tab">
+        <ellipse id="Oval" stroke="#979797" fill="#1C34FF" cx="530.5" cy="203.5" rx="134" ry="128"/>
+       </a>
+    </g>
+</svg>
